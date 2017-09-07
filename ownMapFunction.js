@@ -21,3 +21,4 @@ function map(arr, cb){
   return newArr;
 };
 
+// implement your own version of the built in array map function. will take two arguments. first will be an array to map and the second will be a callback function
